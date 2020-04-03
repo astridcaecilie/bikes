@@ -71,13 +71,22 @@ hr {
     margin-block-end: 0.5em;
 }
 
+.color {
+    height: 15px
+}
 
 .specs {
-    align-self: center;
+    align-content: center;
 /*    does not work?*/
+
+}
+
+button {
     color: #732922;
     text-transform: uppercase;
-    margin-left: auto;
-    margin-right: auto;
+    margin-left: 40%;
     border-color: #732922;
+    padding: auto;
 }
+
+
